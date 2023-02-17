@@ -3,12 +3,11 @@
 <p align="center" ><img 
  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%"/></p>
  
- <p align="center">I'm a mobile developer.<br/>I specialize in Android with Java and iOS with Swift development.<br><br></p>
+ <p align="center">Native mobile application developer with a focus on iOS. Passionate about learning and teaching.<br><br></p>
  
  <h2> 🐙 What I currently do</h2></summary>
 
-- 🌱 I’m currently learning Kotlin and Reactive Programming.
-- 👯 I’m looking to collaborate on Android and iOS projects.
+- 🌱 I am currently creating content on my website roadtome.dev for iOS developers.
  
 <h2> 🛠 My Tools </h2>
 
