@@ -24,7 +24,7 @@ I'm a full-time iOS developer, and in my spare time, I develop indie apps. I han
 - Frameworks**: SwiftUI, UIKit, Combine
 - Tools**: Xcode, Git, TestFlight
 
-## Conecta conmigo
+## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/arturo-glez/)
 - [Email](arturo@7th.dev)
